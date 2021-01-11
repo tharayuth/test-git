@@ -1,8 +1,1 @@
-test1
-<<<<<<< HEAD
-test2
-=======
-test2
-abc
-def
->>>>>>> 6eaed236c370aa741fc826ad5fa283dcd4cd7986
+asas
